@@ -1,4 +1,4 @@
 
 # basic dotnet ignore:
-# bin/
-# obj/
+bin/
+obj/
