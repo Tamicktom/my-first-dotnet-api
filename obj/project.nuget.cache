@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A2cggaoeUwlvMRoinnHqWQrmjxDyanjgbz3jbSNSPkIUEJvAr67qmi4U/YUX9qt9eb+FAp7a6myWDgQBKh+hzg==",
+  "dgSpecHash": "qMFZv1fCeOvvDSXwSgfaXKnHCdCb8jQTy3CsyNfrU6/xWyCezqECwLt6rqxmH24MXupCH4D9Ki8TL7YITTl7dQ==",
   "success": true,
-  "projectFilePath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj",
+  "projectFilePath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi.csproj",
   "expectedPackageFiles": [
     "/home/tamicktom/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
   ],

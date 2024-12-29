@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj": {}
+    "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi.csproj": {}
   },
   "projects": {
-    "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj": {
+    "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj",
+        "projectUniqueName": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi.csproj",
         "projectName": "MyFirstApi",
-        "projectPath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj",
+        "projectPath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi.csproj",
         "packagesPath": "/home/tamicktom/.nuget/packages/",
-        "outputPath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/obj/",
+        "outputPath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tamicktom/.nuget/NuGet/NuGet.Config"
