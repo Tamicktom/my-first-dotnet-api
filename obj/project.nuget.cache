@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2cggaoeUwlvMRoinnHqWQrmjxDyanjgbz3jbSNSPkIUEJvAr67qmi4U/YUX9qt9eb+FAp7a6myWDgQBKh+hzg==",
+  "success": true,
+  "projectFilePath": "/home/tamicktom/Documentos/estudo/my-first-dotnet-api/MyFirstApi/MyFirstApi.csproj",
+  "expectedPackageFiles": [
+    "/home/tamicktom/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
